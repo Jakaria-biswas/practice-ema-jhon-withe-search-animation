@@ -1,0 +1,23 @@
+.header-section{
+ text-align: center;
+}
+.header-section img{
+    width: 300px;
+    display:block;
+    margin: auto;
+}
+.header-section nav{
+     background-color: #000;
+     line-height: 45px;
+     
+    
+}
+.header-section nav a{
+     color: #fff;
+     text-decoration: none;
+     padding: 12px 30px;
+}
+.header-section nav a:hover{
+    background-color: lightgray;
+    color: #000;
+}
